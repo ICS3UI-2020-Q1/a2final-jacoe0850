@@ -18,7 +18,7 @@ public class Main {
     // variables for the two costs that never change
     double labour = 0.75;
     double power = 0.99;
-    // variables for all the numbers witgh calculations
+    // variables for all the numbers with calculations
     double ingredients = diam*0.50;
     double subtotal = labour+power+ingredients;
     double tax = subtotal*.13;
