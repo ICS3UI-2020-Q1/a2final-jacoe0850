@@ -13,7 +13,7 @@ public class Main {
     Scanner input = new Scanner(System.in);
     // Asking for the diameter of the pizza
     System.out.println("What is the size of the pizza (in cm):");
-    // Creating variable for the diameter
+    // Creating variable for the diameter that they tell you
     double diam = input.nextDouble();
     // variables for the two costs that never change
     double labour = 0.75;
